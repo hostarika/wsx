@@ -1,0 +1,605 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1360px;
+    margin: 0 auto;
+}
+.heading{
+    background-color: #939878;
+    color: white;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 40px;
+    padding-right: 40px;
+    flex-wrap: wrap;
+}
+.engtepadagiyuzuv{
+    margin-left: 500px;
+}
+.engtepadagiyuzuv:hover{
+    color: red;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 74px;
+    padding-left: 50px;
+    padding-right: 50px;
+    flex-wrap: wrap;
+}
+.uzbyt{
+    width: 32px;
+    height: 32px;
+    border-radius: 10px;
+    background-color: #CF6F49;
+}
+.uzbytb{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 100px;
+    height: 32px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.displayflex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.Realco{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.Home{
+    margin-left: 300px;
+}
+.button1{
+    padding: 16px;
+    padding-left: 25px;
+    padding-right: 25px;
+    width: 100px;
+    height: 42px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 8px;
+    background-color: #FFFFFF;
+    box-shadow: 2px 5px 10px 2px #00000014;
+    border: none;
+}
+.button2{
+    height: 42px;
+    width: 159px;
+    color: white;
+    background-color: #CF6F49;
+    border-radius: 8px;
+    border: none;
+}
+.button3{
+    height: 42px;
+    width: 150px;
+    color: white;
+    background-color: #CF6F49;
+    border-radius: 8px;
+    border: none;
+}
+.button4{
+    width: 190px;
+    height: 48px;
+    border-radius: 8px;
+    background-color: white;
+    border: 1px solid #E7E8E3
+}
+.button5{
+    color: white;
+    background-color: #CF6F49;
+    padding: 15px 30px;
+    border-radius: 6px;
+    border: none;
+}
+.button6{
+    background-color: white;
+    padding: 10px 20px;
+    border-radius: 6px;
+    border: 1px solid #E7E8E3
+}
+.hhhhhhhh{
+    display: flex;
+    justify-content: space-between;
+    background-color: #F5F5F2;
+    flex-wrap: wrap;
+}
+.textsdd{
+    width: 560px;
+    height: 367px;
+    padding-left: 80px;
+
+}
+.biggestroom{
+    width: 700px;
+    height: 653px;
+}
+.text1{
+    font-size: 48px;
+}
+.text2{
+    font-size: 45px;
+}
+.text3{
+    font-size: 42px;
+}
+
+.text4{
+    font-size: 39px;
+}
+.text5{
+    font-size: 37px;
+}
+
+.text6{
+    font-size: 35px;
+}
+.text7{
+    font-size: 32px;
+}
+
+.text8{
+    font-size: 30px;
+}
+
+.text9{
+    font-size: 28px;
+}
+.text10{
+    font-size: 25px;
+}
+
+.text11{
+    font-size: 22px;
+}
+.text12{
+    font-size: 20px;
+}
+.text13{
+    font-size: 18px;
+}
+.text14{
+    font-size: 16px;
+}
+.text15{
+    font-size: 15px;
+}
+.gray{
+    color: gray;
+}
+.red{
+    color: red;
+}
+.blue{
+    color: blue;
+}
+.white{
+    color: white;
+}
+a:hover{
+    color: red;
+}
+button:hover{
+    color: red;
+    background-color: skyblue;
+}
+.input1{
+    width: 280px;
+height: 45px;
+border-radius: 8px;
+padding: 10px;
+padding-left: 30px;
+opacity: 50%;
+}
+.inputandbutton{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.findyourdreamplace{
+    background-color: #E7E8E3;
+    width: 171px;
+    height: 30px;
+    padding: 5px;
+    padding-left: 10px;
+    border-radius: 16px;
+} 
+.vector7{
+    display: flex;
+    justify-content: right;
+    margin-left: 525px;
+    flex-wrap: wrap;
+}
+.vector8{
+    margin-right: -80px;
+    width: 18px;
+    height: 18px;
+}
+.logos{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    margin: 40px;
+    margin-left: 60px;
+    margin-right: 100px;
+    flex-wrap: wrap;
+}
+.asseenonth{
+    width: 200px;
+}
+.chapaqay{
+    margin-left: 200px;
+}
+.minilogos{
+    width: 100px;
+    height: 25px;
+}
+.divallti{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 80px;
+    width: 650px;
+    flex-wrap: wrap;
+}
+.zppps{
+    display: flex;
+    justify-content: center;
+}
+.southkorea{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.korea{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 400px;
+    height: 280px;
+    border: 1px solid #E7E8E3;
+    border-radius: 20px;
+    padding: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.northkorea{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    flex-wrap: wrap;
+}
+
+.comfortfirst{
+    background-color: #E7E8E3;
+    width: 120px;
+    height: 30px;
+    padding: 5px;
+    padding-left: 10px;
+    border-radius: 16px;
+} 
+.left2{
+width: 500px;
+margin-top: 120px;
+}
+.right2{
+width: 600px;
+height: 600px;
+}
+.buttonanda{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 320px;
+}
+.quickandeasy{
+    background-color: #E7E8E3;
+    width: 120px;
+    height: 30px;
+    padding: 5px;
+    padding-left: 10px;
+    border-radius: 16px;
+} 
+.japan{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 120px;
+    padding-left: 50px;
+    padding-right: 50px;
+    flex-wrap: wrap;
+}
+.left3{
+    width: 600px;
+}
+.right3{
+    width: 580px;
+    height: 600px;
+    margin-top: 50px;
+}
+.whatisthat{
+    display: flex;
+    justify-content: space-between;
+}
+.left4{
+width: 220px;
+}
+.right4{
+width: 240px;
+margin-right: 30px;
+}
+.section3{
+    background-color: #F5F5F2;
+}
+.vector9{
+    display: flex;
+    justify-content: right;
+}
+.properties{
+    background-color: #E7E8E3;
+    width: 100px;
+    height: 30px;
+    padding: 5px;
+    padding-left: 17px;
+    border-radius: 16px;
+} 
+.china{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.vietnam{
+    width: 750px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.houses{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-bottom: 100px;
+}
+.house{
+    width: 400px;
+    height: 450px;
+    background-color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+.imghouse{
+    width: 100%;
+}
+.texthouse{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.place{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 210px;
+}
+.plmqwe{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.locationsnidodasi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.locationsniotasi{
+    width: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.shtatlarvashaharlar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-bottom: 100px;
+}
+.shtatvashahar{
+    width: 400px;
+    height: 120px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 30px;
+    margin-top: 20px;
+}
+.vachach{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    width: 120px;
+}
+
+.tashqarida{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.ichkarida{
+    background-color: #65665C;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 60px;
+    padding-left: 200px;
+    padding-right: 200px;
+    width: 1250px;
+    height: 470px;
+    border-radius: 20px;
+    position: absolute;
+}
+.section4{
+    background-color: white;
+}
+.frontkloop{
+    padding-top: 250px;
+    margin: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.paddingbottom{
+    padding-bottom: 400px;
+}
+.otzivi{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 100px;
+    flex-wrap: wrap;
+}
+.otziv{
+    padding: 30px;
+    border-radius: 15px;
+    width: 400px;
+    height: 320px;
+    border: 1px solid #E7E8E3
+}
+.micha{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 180px;
+}
+.blog{
+    background-color: #E7E8E3;
+    width: 65px;
+    height: 30px;
+    padding: 5px;
+    padding-left: 17px;
+    border-radius: 16px;
+} 
+.section5{
+    background-color: #F5F5F2;
+    padding: 80px;
+}
+.latebusy{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.houses2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+    padding-bottom: 100px;
+    flex-wrap: wrap;
+}
+.house2{
+    width: 380px;
+    height: 530px;
+    background-color: white;
+    border-radius: 15px;
+}
+.texthouse2{
+    padding: 20px;
+}
+.trends{
+    background-color: #FAE8E1;
+    width: 75px;
+    height: 30px;
+    padding: 5px;
+    padding-left: 17px;
+    border-radius: 16px;
+} 
+.diy{
+    background-color: #FAE8E1;
+    width: 60px;
+    height: 30px;
+    padding: 5px;
+    padding-left: 17px;
+    border-radius: 16px;
+}
+.may2022{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 200px;
+}
+.footertepa{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    height: 450px;
+    padding: 50px;
+}
+
+.tugashigaozginaqoldi{
+    width: 400px;
+    height: 220px;
+    margin-left: 100px;
+}
+.boqqirangi{
+    color: #65665C;
+}
+.input2{
+    width: 200px;
+height: 40px;
+border-radius: 8px;
+padding: 10px;
+}
+footer{
+        background-color: #F5F5F2;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding-left: 80px;
+        padding-right: 80px;
+        height: 72px;
+        flex-wrap: wrap;
+}
+.kichikroqbol{
+width: 400px;
+height: 25px;
+}
